@@ -1,1 +1,0 @@
-Datenschutzerklärung für Coqvia App
